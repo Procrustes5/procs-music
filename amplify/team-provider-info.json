@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-procsmusic-dev-a9748-authRole",
+      "UnauthRoleArn": "arn:aws:iam::590183741714:role/amplify-procsmusic-dev-a9748-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::590183741714:role/amplify-procsmusic-dev-a9748-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-procsmusic-dev-a9748-deployment",
+      "UnauthRoleName": "amplify-procsmusic-dev-a9748-unauthRole",
+      "StackName": "amplify-procsmusic-dev-a9748",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:590183741714:stack/amplify-procsmusic-dev-a9748/91ce8ab0-51fe-11ef-9183-0e58f7a19483",
+      "AmplifyAppId": "d30m5ut3z2dh7s"
+    }
+  }
+}
